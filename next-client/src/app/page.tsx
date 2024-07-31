@@ -1,9 +1,9 @@
-import { WalletConnector } from "@/components/WalletConnector";
+import { Navbar } from "@/components/Navbar";
 
 export default function Home() {
   return (
     <>
-      <WalletConnector />
+      <Navbar />
     </>
   );
 }
